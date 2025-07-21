@@ -91,7 +91,7 @@ Learn how to deploy a full MERN stack application to production, implement CI/CD
    - A comprehensive README.md with deployment instructions
 6. Update your README.md with:
    - URL of the deployed frontend application
-   - URL of the deployed backend API
+   - URL of the deployed backend API https://wa-lhny.onrender.com
    - Screenshots of your CI/CD pipeline in action
    - Documentation of your monitoring setup
 7. Your submission will be automatically graded based on the criteria in the autograding configuration
