@@ -1,9 +1,9 @@
-
 import { Routes, Route } from 'react-router-dom';
-import Login from './pages/Login';
-import Register from './pages/Register';
-import Dashboard from './pages/Dashboard';
-import Navbar from './components/Navbar';
+import Login from './login.jsx';
+import Register from './register.jsx'; // spelling corrected below
+import Dashboard from './dashboard.jsx';
+import Navbar from './navbar.jsx';
+
 
 function App() {
   return (
